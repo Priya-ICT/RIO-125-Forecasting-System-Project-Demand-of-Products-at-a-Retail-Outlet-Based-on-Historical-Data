@@ -15,8 +15,7 @@ Learn about different forecasting models like ARMA and ARIMA.
 Get familiar with python libraries like numpy, pandas, statsmodels and prophet.
 Get familiar with industry type projects.
 **Software Requirements to Implement the Project:**
-Google Collab[Superstore.xls](https://github.com/Priya-ICT/RIO-125-Forecasting-System-Project-Demand-of-Products-at-a-Retail-Outlet-Based-on-Historical-Data/files/7117309/Superstore.xls)
-
+Google Coolab
 Jupyter Notebook
 Python
 Windows O.S. (opt)
