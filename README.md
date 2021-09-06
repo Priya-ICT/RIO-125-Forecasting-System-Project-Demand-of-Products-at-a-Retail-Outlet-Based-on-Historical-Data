@@ -10,19 +10,29 @@ Project Objective & Brief: Here I have developed a forecasting system with the h
 **Project Guidelines :**
 
 Create a dataset , clean the dataset and also sanitize it.
+
 Choose the appropriate forecasting model for the dataset.
+
 Fit the model to dataset and make predictions
+
 Visualize the predictions
+
 Expected Project Outcome:
+
 Learn about different forecasting models like ARMA and ARIMA.
+
 Get familiar with python libraries like numpy, pandas, statsmodels and prophet.
+
 Get familiar with industry type projects.
 
 **Software Requirements to Implement the Project:**
 
 Google Coolab
+
 Jupyter Notebook
+
 Python
+
 Windows O.S. (opt)
 
 **Dataset Sources used here :**
